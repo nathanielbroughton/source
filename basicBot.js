@@ -311,7 +311,8 @@
             blacklists: {
                 NSFW: "https://rawgit.com/basicBot/custom/master/blacklists/NSFWlist.json",
                 OP: "https://rawgit.com/basicBot/custom/master/blacklists/OPlist.json",
-                BANNED: "https://rawgit.com/basicBot/custom/master/blacklists/BANNEDlist.json"
+                BANNED: "https://rawgit.com/basicBot/custom/master/blacklists/BANNEDlist.json",
+                BL: "https://www.dropbox.com/s/flnpfdm17mgvouo/blacklist.json"
             }
         },
         room: {
